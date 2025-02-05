@@ -6,16 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm fouth year undergraduate Computer Engineering at KMUTT Thailand.
-Currently working on Business Analysis at BlueVenture Tech Co., Ltd.
-Can speak and underdstand Japanese(JLPT N3 level)
+# 📌 Profile  
+**Fourth-year Undergraduate, Computer Engineering**  
+King Mongkut's University of Technology Thonburi (KMUTT), Thailand  
+Currently working as **Business Analyst** at BlueVenture Tech Co., Ltd.  
+Japanese Language Proficiency: **JLPT N3**  
 
+---
 
-Educational & Technical Expertise
-======
-GPAX: 3.38
-Programming Skill: C, Python, JS, TS
-Framework & Libraries: React, Node.js, Pandas, Numpy
-Database: SQL, MySQL, Prisma
-Tools: Jira, ClickUp
+## 🎓 Education & Technical Expertise  
+- **📚 GPAX**: 3.38  
+- **💻 Programming Skills**: C, Python, JavaScript, TypeScript  
+- **🛠️ Frameworks & Libraries**: React, Node.js, Pandas, NumPy  
+- **🗄️ Database**: SQL, MySQL, Prisma  
+- **🧰 Tools**: Jira, ClickUp 
 
