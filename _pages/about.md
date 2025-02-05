@@ -11,6 +11,7 @@ redirect_from:
 King Mongkut's University of Technology Thonburi (KMUTT), Thailand  
 Currently working as **Business Analyst** at BlueVenture Tech Co., Ltd.  
 Japanese Language Proficiency: **JLPT N3**  
+TOEIC: 875/990
 
 ---
 
