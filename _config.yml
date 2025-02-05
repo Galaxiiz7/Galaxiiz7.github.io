@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "th-TH"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Dechbordin's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dechbordin Naluepai"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Galaxiiz7.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "He/Him"  
+  bio              : "Computer Engineering student, KMUTT"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
