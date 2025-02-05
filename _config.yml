@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Earth Dechbordin"
   pronouns         : "He/Him"  
   bio              : "Computer Engineering student, KMUTT"
   location         : "Bangkok, Thailand"
@@ -32,7 +32,7 @@ author:
   email            : "earth_tmc@hotmail.com" 
 
   # Repositories and software development
-  github           : "academicpages"
+  github           : "Galaxiiz7"
   
   # Social media
   bluesky          : # Replace this with you Bluesky username
